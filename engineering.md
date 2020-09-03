@@ -9,7 +9,6 @@
 - Another big mistake is trying to over solve the solution on the first iteration. 
 **Keep it simple, don’t try to get fancy.**
 
-![Image](img/lolcatthink_thumb.jpg)
 
 ### Solving Problems
 
